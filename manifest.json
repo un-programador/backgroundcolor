@@ -6,7 +6,7 @@
   "description": "A shortcut to change background color in Firefox. It has light on dark, dark on pink and original. The shortcut is ctrl + shift + u.",
 
   "icons": {
-    "48": "icons/bgcolor-48.png"
+    "48": "icons/icon48.png"
   },
 
   "content_scripts": [
